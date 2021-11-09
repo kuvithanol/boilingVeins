@@ -1,0 +1,8 @@
+C:\Users\ness from undertale\Desktop\discord bot files\boiling veins mod\boilingVeins.dll
+C:\Users\ness from undertale\Desktop\discord bot files\boiling veins mod\boilingVeins.pdb
+C:\Users\ness from undertale\source\repos\boilingVeins\obj\Debug\boilingVeins.csproj.CoreCompileInputs.cache
+C:\Users\ness from undertale\source\repos\boilingVeins\obj\Debug\boilingVeins.dll
+C:\Users\ness from undertale\source\repos\boilingVeins\obj\Debug\boilingVeins.pdb
+C:\Users\ness from undertale\Desktop\build\boilingVeins.dll
+C:\Users\ness from undertale\Desktop\build\boilingVeins.pdb
+C:\Users\ness from undertale\source\repos\boilingVeins\obj\Debug\boilingVeins.csproj.AssemblyReference.cache
